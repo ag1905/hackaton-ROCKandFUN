@@ -1,4 +1,4 @@
 applications:
-- name: hackaton-hello-world
+- name: hackaton-A-team
   memory: 128M
   buildpack: sdk-for-nodejs
